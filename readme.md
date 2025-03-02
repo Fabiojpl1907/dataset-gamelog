@@ -1,6 +1,6 @@
 # Características
 
-- A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
+- A empresa foca em fabricação de consoles, deixando a distribuição e venda com parceiros
 - Os produtos são vendidos globalmente
 
 # Objetivos
