@@ -9,4 +9,7 @@ sempre responda de forma clara e sucinta.
 sempre me responda informando o racional 
 carregar os dados fornecidos
 Qual produto mais vendido ?
+Ordem as vendas de produto do mais vendido ao menos vendido, agrupado por pais. 
+Qual a idade media dos compradores
+Qual a media por idade de cada pais para os 3 produtos mais vendidos
 
